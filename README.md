@@ -6,11 +6,13 @@
 
 ## Options
 
-|  |Common|No-content|GitHub
-|--|--|--|--
-|Official|||
-|Themes|||
-|Plugins|||
+|  |Full|New-bundled|No-content|Repository
+|--|--|--|--|--
+|Official||||
+|Packagist||||
+|Repository||||
+|Themes||||
+|Plugins||||
 
 ## Usage
 
